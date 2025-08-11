@@ -27,8 +27,8 @@ This algorithm has been applied to identify transcriptional pausing sites of Pol
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ShengShawnWang/peak-calling-nb-hmm.git
-   cd peak-calling-nb-hmm
+   git clone https://github.com/ShengShawnWang/NB-HMM.peak.git
+   cd NB-HMM.peak
    ```
 
 2. Set up your environment (change the environment name if needed):
