@@ -1,6 +1,6 @@
-# Peak Calling from Sequencing Data at Nucleotide Resolution Using a Negative Binomial Hidden Markov Model (HMM)
+# Peak Calling from Sequencing Data at Nucleotide Resolution Using a Negative Binomial Hidden Markov Model (NB-HMM)
 
-This repository provides a Python implementation of a negative binomial hidden Markov model (HMM) for nucleotide-resolution peak calling. The algorithm is designed for high-resolution analysis of sequencing data and has been successfully applied to identify RNA Polymerase II (Pol II) pausing sites using Native Elongating Transcript sequencing (NET-seq) data.
+This repository provides a Python implementation of a negative binomial hidden Markov model (NB-HMM) for nucleotide-resolution peak calling. The algorithm is designed for high-resolution analysis of sequencing data and has been successfully applied to identify RNA Polymerase II (Pol II) pausing sites using Native Elongating Transcript sequencing (NET-seq) data.
 
 ## Overview
 
@@ -58,5 +58,5 @@ This project is licensed under the MIT License.
 ## Contact
 
 For questions, suggestions, or issues, please open an issue on GitHub:
-https://github.com/ShengShawnWang/nb-hmm-peak-calling/issues
+https://github.com/ShengShawnWang/NB-HMM.peak/issues
 
